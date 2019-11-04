@@ -27,6 +27,4 @@ htmlcov/
 .envrc
 .direnv
 
-#envfile 
-env_file
 keys.txt
