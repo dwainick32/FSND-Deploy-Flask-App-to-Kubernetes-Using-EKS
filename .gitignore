@@ -26,5 +26,3 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
-
-keys.txt
